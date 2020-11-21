@@ -8,7 +8,7 @@
      ]
     },
     {
-     "name": "graph",
+     "name": "Syncretic Cultures and Practices",
      "children": [
       {"name": "BetweennessCentrality", "value": 3534},
       {"name": "LinkDistance", "value": 5731},
@@ -18,7 +18,7 @@
      ]
     },
     {
-     "name": "optimization",
+     "name": "Sensitive Ecologies",
      "children": [
       {"name": "AspectRatioBanker", "value": 7074}
      ]
@@ -26,7 +26,7 @@
    ]
   },
   {
-   "name": "animate",
+   "name": "",
    "children": [
     {"name": "Easing", "value": 17010},
     {"name": "FunctionSequence", "value": 5842},
