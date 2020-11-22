@@ -4,10 +4,10 @@
   {
    "name": "Livelihoods and Community Wellbeing",
    "children": [
-    { "name": "Thanda", "Value": 1}
+    { "name": "Lambani Thanda", "Value": 1}
      ]
    },
-    {
+  {
      "name": "Syncretic Cultures and Practices",
      "children": [
       {"name": "BetweennessCentrality", "value": 3534},
