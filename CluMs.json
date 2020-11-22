@@ -4,23 +4,23 @@
   {
    "name": "Livelihoods and Community Wellbeing",
    "children": [
-    { "name": "Lambani Thanda", "Value": 1}
+    { "name": "Lambani Thanda"}
      ]
    },
   {
      "name": "Syncretic Cultures and Practices",
      "children": [
-      {"name": "BetweennessCentrality", "value": 3534},
-      {"name": "LinkDistance", "value": 5731},
-      {"name": "MaxFlowMinCut", "value": 7840},
-      {"name": "ShortestPaths", "value": 5914},
-      {"name": "SpanningTree", "value": 3416}
+      {"name": "BetweennessCentrality"},
+      {"name": "LinkDistance"},
+      {"name": "MaxFlowMinCut"},
+      {"name": "ShortestPaths"},
+      {"name": "SpanningTree"}
      ]
     },
     {
      "name": "Sensitive Ecologies",
      "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
+      {"name": "AspectRatioBanker"}
      ]
     }
   ]
