@@ -5,6 +5,10 @@
    "name": "Livelihoods and Community Wellbeing",
    "children": [
     { "name": "Lambani Thanda"}
+    {"name": "Soyabean Cultivation & value added products"}
+    {"name": "Cultivation of Ratansagar rice"}
+    {"name": "Cultivation of Benishan Mangoes"}
+    {"name": "Diary & Livestock in Dhupatmahagaon"}
      ]
    },
    {
@@ -23,5 +27,6 @@
       {"name": "AspectRatioBanker"}
      ]
     }
+    {"name": ""}
   ]
  }
